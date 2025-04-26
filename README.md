@@ -15,4 +15,4 @@ Analyze data using SQL queries
 Created ML models to predict heart disease diagnosis and severity of heart disease
 
 Analysis was performed by uploading data on Databricks
-
+The .ipynb are Databricks notebooks meant to be imported and run at: https://community.cloud.databricks.com/ (community edition account needed)
